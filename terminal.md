@@ -8,3 +8,4 @@ ni new item
 mkdir make directory (no space in foldername possibly)
 git init - makes a git folder
 ls -force - makes hidden files visible
+rm -Force folder delete (y for yes)
